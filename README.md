@@ -14,7 +14,7 @@
 <br/>
 
 <p align="center">
-	<a href="https://medium.com/https://medium.com/wespereira">
+	<a href="https://medium.com/wespereira">
 		<img width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/wespereira">
   	<a/>	
   	<a href="https://www.linkedin.com/in/wes-pereira/">
