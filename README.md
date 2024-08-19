@@ -6,8 +6,8 @@
 <div align="center">
 	<p>
 		<br>I'm Wesley Pereira
-		<br>an Computer Engineering student from Brazil, currently studying at Poli USP.
-    <br> I am interested in Computer Vision, Data Science, Machine Learning and AI.
+		<br>an Computer Engineer from Poli USP.
+    <br> I am interested in Code standards, Software Engineering, Machine Learning and AI.
 	</p>
 <div/>
 
